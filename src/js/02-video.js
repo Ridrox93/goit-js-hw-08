@@ -13,3 +13,5 @@ function onPlay({seconds}) {
 }
 
 player.setCurrentTime(localStorage.getItem('videoplayer-current-time') || 0);
+
+// add coment
